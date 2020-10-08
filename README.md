@@ -1,2 +1,2 @@
-# null-technologies.github.io
-Website
+# Null Technologies
+![Banner.png](/src/Null-Tech-Banner.png)
