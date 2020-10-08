@@ -1,2 +1,2 @@
 # Null Technologies
-![Banner.png](/src/Null-Tech-Banner.png)
+![Banner](src/Null-Tech-Banner.svg)
