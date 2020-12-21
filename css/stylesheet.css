@@ -1,1 +1,3 @@
-This is a placeholder
+body {
+ background-image: url("/src/bg.png");
+}
