@@ -3,5 +3,6 @@ body {
 }
 
 .logo {
+ fill: black;
  position: sticky;
 }
