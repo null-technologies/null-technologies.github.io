@@ -4,5 +4,6 @@ body {
 
 .logo {
  fill: black;
- position: sticky;
+ position: fixed;
+ width: 50%;
 }
