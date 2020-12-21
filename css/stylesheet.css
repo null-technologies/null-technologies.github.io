@@ -16,4 +16,5 @@ body {
   background-color: navy;
   color: goldenrod;
   text-align: center;
+  font-family:system-ui;
 }
