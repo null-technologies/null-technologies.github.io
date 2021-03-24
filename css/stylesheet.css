@@ -18,3 +18,11 @@ body {
   text-align: center;
   font-family:system-ui;
 }
+
+.navbar {
+ width:100%;
+}
+
+.menu {
+ display:flex;
+}
