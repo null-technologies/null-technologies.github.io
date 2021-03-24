@@ -2,6 +2,10 @@ body {
  background-image: url("/src/bg.png");
 }
 
+a {
+ text-decoration:none;
+}
+
 .logo {
  fill: black;
  position: fixed;
